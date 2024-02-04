@@ -1,9 +1,12 @@
 # Made By Ali Hany | Arrow-Dev <3
 # Created in 2/3/2024 | Last Update 2/3/2024
 # Visit Us https://arrow-dev.rf.gd
-
-
 # Compress Photos Pillow [Project]
+
+# -------- Special Thanks -----------
+# For Zeyad Mustafa | Improving The Code
+
+
 # import needed library's
 
 import random
