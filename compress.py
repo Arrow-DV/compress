@@ -22,10 +22,12 @@ if len(sys.argv) < 1 :
 args = sys.argv[1:]
 
 def get_image_size(image_path):
+    """Get Image Old Image Size"""
     return os.path.getsize(image_path)
 
 # Now Compress Image Part
 def compress(image, path="compressed.jpg"):
+    """This Function Compress The Image"""
    # Now Save Image
     try:
        image.save(path, compress_level=9)
@@ -34,6 +36,7 @@ def compress(image, path="compressed.jpg"):
         sys.exit(-1)
 
 def main():
+    """This Runs The Image"""
     image_path = args[0].strip()
     try:
         image = Image.open(image_path)
