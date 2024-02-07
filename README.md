@@ -1,4 +1,4 @@
-### Compress images project developed by (Arrow-Dev) Ali Hany
+### Compress Images-Videos project developed by (Arrow-Dev) Ali Hany
 
 #### installation
     - Clone this repo `https://github.com/Arrow-DV/compress-images.git`
