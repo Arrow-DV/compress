@@ -1,10 +1,13 @@
-### Compress images project developed by Ali Hani
+### Compress images project developed by (Arrow-Dev) Ali Hany
 
 #### installation
     - Clone this repo `https://github.com/Arrow-DV/compress-images.git`
     - Install the requirements `pip install -r requirements.txt`
 
-#### How to use
-    - Run the script by typing this command `python compress.py <image_path>` but don't forget the replace the image_path with the actual paht of your image
+## How to use
+Run the script by typing 
+    
+####
+    - python compress.py <file_path>
 
-
+<img src = "arrow.png">
